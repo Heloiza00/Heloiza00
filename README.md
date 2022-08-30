@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Heloiza Lemos👋
 
 
-- 🔭 Praticando code
+- 🔭 Praticando programação
 - 🌱 Estudando Sistema de Informação
 - 📫 Tocantins
 
